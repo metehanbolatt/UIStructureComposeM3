@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIStructureComposeM3</string>
+
+    <string name="button_text">Sign Out</string>
+    <string name="dialog_title">Sign Out</string>
+    <string name="dialog_text">Are you sure you want to sign out from your Account?</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_yes">Yes</string>
+</resources>
